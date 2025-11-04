@@ -22,7 +22,7 @@
         echo "Division of x and y is:". $d . "<br/>";
         echo "Modulus of x and y is:". $m . "<br/>";
       //Comparison operations
-        echo "x == y:". ($x==$y) . "<br/>";
+        echo "x = y:". ($x==$y) . "<br/>";
         echo "x != y:". ($x!=$y) . "<br/>";
         echo "x > y:". ($x>$y) . "<br/>";
         echo "x < y:". ($x<$y) . "<br/>";
