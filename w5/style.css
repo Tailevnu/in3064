@@ -1,11 +1,12 @@
 /* image background for my form */
+/* ...existing code... */
 body{
-    background-image: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)), url("image.jpg");
+    background-image: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),
+    url("Image.jpg");
     background-size: cover;
     background-position: center;
 }
 
-/* login and registration form in the center */
 .login-box{
     max-width: 700px;
     float: none;
